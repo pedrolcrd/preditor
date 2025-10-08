@@ -51,7 +51,7 @@ pip install -r requirements.txt
 Inicie o servidor da aplicação:
 
 ```bash
-python3 app.py
+python app.py
 ```
 
 A aplicação estará disponível em `http://localhost:5001`.
