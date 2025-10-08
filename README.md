@@ -43,7 +43,7 @@ Baixe os arquivos do projeto e instale as dependências:
 pip install python-fasthtml uvicorn plotly folium pandas numpy lightgbm scikit-learn holidays geopandas
 
 # Ou usar o arquivo de requisitos
-pip install -r requirements_simple.txt
+pip install -r requirements.txt
 ```
 
 ### 3. Execução
