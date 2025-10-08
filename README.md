@@ -1,7 +1,7 @@
 '''
 # SafeWay - Sistema de Predição de Acidentes
 
-O SafeWay é uma aplicação web moderna e responsiva para predição de acidentes de trânsito, construída com **FastHTML** e inspirada no design da imagem de referência. A plataforma oferece um dashboard interativo com visualizações de dados e um formulário de predição em tempo real, permitindo que os usuários estimem a probabilidade de acidentes com base em diversas variáveis.
+O SafeWay é uma aplicação web moderna e responsiva para predição de acidentes de trânsito. A plataforma oferece um dashboard interativo com visualizações de dados e um formulário de predição em tempo real, permitindo que os usuários estimem a probabilidade de acidentes com base em diversas variáveis.
 
 ## Funcionalidades
 
